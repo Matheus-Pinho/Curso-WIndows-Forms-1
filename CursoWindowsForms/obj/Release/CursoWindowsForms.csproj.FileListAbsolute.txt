@@ -1,0 +1,15 @@
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\bin\Release\CursoWindowsForms.exe.config
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\bin\Release\CursoWindowsForms.exe
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\bin\Release\CursoWindowsForms.pdb
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Principal.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.Properties.Resources.resources
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
+C:\Users\ven72\Desktop\Nova pasta\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
